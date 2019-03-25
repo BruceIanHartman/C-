@@ -1,2 +1,3 @@
-# C-
-C++ prgrograms written, eplored
+# C++
+C++ programs written, explored
+College Course Refresh
