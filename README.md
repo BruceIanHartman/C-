@@ -1,3 +1,3 @@
 # C++
-C++ prgrograms written, eplored
+C++ programs written, explored
 Recent College Refresh
