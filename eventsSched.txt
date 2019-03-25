@@ -1,0 +1,48 @@
+Pool Party
+1
+13
+30
+25.00
+family games
+Cribbage Tournement
+2
+16
+00
+10.00
+competition
+Wine Tasting
+2
+20
+00
+30.75
+adult education
+Costume Party
+3
+20
+30
+7.50
+adult social
+Yoga
+1
+8
+30
+15.00
+exercise
+Yoga
+2
+8
+30
+15.00
+exercise
+Chocolate Feast
+3
+20
+15
+20.50
+family social
+Yoga
+3
+8
+30
+15.00
+exercise
